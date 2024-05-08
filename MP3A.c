@@ -2,7 +2,8 @@
 Program Name: MP3A
 Developer and Date of Submission: Shaw Jie Yao, November 6, 2021
 Description of the program: Presents a Flame Calculator for Choice A and Presents a Prime Word Detector for Choice B.     
-Student Number: 2021-12467
+
+Note: NO SPACES ARE ALLOWED, for more accurate assessment.
 */
 
 #include <stdio.h>
