@@ -13,6 +13,7 @@
        - A. Flames Calculator
        - B. Prime Word Detector
        - C. Exit
+
 ## Core Concept
 - Fundamentals of Programming I
 
